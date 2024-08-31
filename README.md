@@ -1,8 +1,7 @@
 - 👋 Hola soy @d0m1d3v
-- 👀 Estoy interesado actualmente en bash
-- 🌱 Actualmente estoy estudiando python
-- 💞️ Busco colaboradores el tema de hacking
-- 📫 Como contactarme Discord: Domi!#6161
+- 👀 I love Hacking.
+- 💞️ Game Hacking.
+- 📫 Como contactarme Discord: eldomi.
 
 <!---
 d0m1d3v/d0m1d3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
